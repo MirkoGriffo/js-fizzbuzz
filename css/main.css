@@ -1,1 +1,10 @@
+body {
+  background-color: midnightblue;
+  color: white;
+  font-size: 50px;
+}
 
+h1 {
+  font-size: 100px;
+  margin-left: 35%;
+}
